@@ -2,7 +2,7 @@
 Download Selected Links
 =======
 
-Select links on a page and download them.
+Chrome Extension where you can Select links on a page and download them.
 
 [Zipfile](http://developer.chrome.com/extensions/examples/api/downloads/download_links.zip)
 
